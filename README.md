@@ -16,7 +16,5 @@ The original project was built as a console application in C#. The expanded vers
 One notable challenge during development was the author's stronger background in Java. Certain design decisions during the workshop were initially approached with Java idioms in mind, which provided a useful opportunity to understand the distinctions between the two languages — particularly around event-driven GUI programming and .NET conventions.
 
 ## Cloning This Repository
-bash
-# Clone
 git clone https://github.com/hollykhk/smart-id.git
 cd smart-id
